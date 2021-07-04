@@ -4,3 +4,5 @@ Selenium Ders Notlari
 driver metodlari:
 
 driver.get  bir linki acar
+
+driver.getTitle sayfa basligini gosterir
